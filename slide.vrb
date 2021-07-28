@@ -1,0 +1,9 @@
+\frametitle{Basic Operations}
+\begin{block}{Add}
+  更新的时候只要更新修改某个点会影响到那些数组
+    \begin{lstlisting}
+void update(int *C, int n, int x, int val) {
+  for (; x <= n; x += x & -x) C[x] += val;
+}
+    \end{lstlisting}
+  \end{block}
