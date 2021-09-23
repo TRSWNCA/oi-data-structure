@@ -1,9 +1,16 @@
-\frametitle{Basic Operations}
-\begin{block}{Add}
-  更新的时候只要更新修改某个点会影响到那些数组
-    \begin{lstlisting}
-void update(int *C, int n, int x, int val) {
-  for (; x <= n; x += x & -x) C[x] += val;
-}
-    \end{lstlisting}
-  \end{block}
+\frametitle{Data Structure}
+线段树维护一个区间(且能区间合并)的信息，所以一般需要维护 \textbf{是哪个区间} \textbf{区间信息}
+
+\href{run:线段树基础.pdf}{线段树基础}
+
+如果空间要求比较严苛，可以省略区间 $[l, r]$ 的记录，递归时带区间范围
+
+\begin{block}{Data}
+  \begin{lstlisting}
+const int N = 1e5 + 10;
+struct Node {
+  int l, r, val, tag;
+} t[N << 2];
+  \end{lstlisting}
+\end{block}
+

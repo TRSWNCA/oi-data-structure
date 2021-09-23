@@ -1,0 +1,19 @@
+\beamer@sectionintoc {1}{Basics}{4}{0}{1}
+\beamer@sectionintoc {2}{Disjoint Set}{6}{0}{2}
+\beamer@subsectionintoc {2}{1}{Operations}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Extend Operations}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Problems}{14}{0}{2}
+\beamer@sectionintoc {3}{Leftist\ Tree}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{Descriptions}{20}{0}{3}
+\beamer@subsectionintoc {3}{2}{Operations}{24}{0}{3}
+\beamer@subsectionintoc {3}{3}{Problems}{30}{0}{3}
+\beamer@sectionintoc {4}{Trie\ Tree}{33}{0}{4}
+\beamer@subsectionintoc {4}{1}{Descriptions}{34}{0}{4}
+\beamer@subsectionintoc {4}{2}{Problems}{39}{0}{4}
+\beamer@sectionintoc {5}{Fenwick\ Tree}{42}{0}{5}
+\beamer@subsectionintoc {5}{1}{Descriptions}{43}{0}{5}
+\beamer@subsectionintoc {5}{2}{Operations}{46}{0}{5}
+\beamer@subsectionintoc {5}{3}{Problems}{49}{0}{5}
+\beamer@sectionintoc {6}{Segment Tree}{52}{0}{6}
+\beamer@subsectionintoc {6}{1}{Descriptions}{53}{0}{6}
+\beamer@subsectionintoc {6}{2}{Problems}{55}{0}{6}
